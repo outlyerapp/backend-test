@@ -37,7 +37,7 @@ $ curl localhost:8080/metrics
 - You will be evaluated both on your implementation choices and the quality of your code; so
 please ensure code is well structured, extensible, tested, readable, commented etc.
 
-- bonus point: design a solution that can dynamically collect other metrics, for example the ones about services running on your host like nginx or redis etc.
+- bonus point: design your solution so that it can be __easily__ extended to support collecting stats from other applications or services, for example ones running on your host like nginx or redis etc.
 
 ## Submission Guidelines
 
